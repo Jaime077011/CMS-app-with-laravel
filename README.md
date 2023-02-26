@@ -1,5 +1,6 @@
 # CMS-app-with-laravel
 Basic content management system, supports Laravel 9.0.
+<hr>
 ![Screenshot from 2023-02-26 22-08-31](https://user-images.githubusercontent.com/101170188/221435395-29167eb7-f7fd-485c-a167-efef96ef4905.png)
 ![Screenshot from 2023-02-26 22-09-16](https://user-images.githubusercontent.com/101170188/221435406-d4ce6775-3db1-4d47-a34c-52ec8a8c829c.png)
 ![Screenshot from 2023-02-26 22-08-45](https://user-images.githubusercontent.com/101170188/221435417-6f35b725-1fd9-4b2e-a9e2-9285d6224803.png)
